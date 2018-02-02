@@ -1,0 +1,205 @@
+@font-face {
+    font-family: 'Frutiger LT Std';
+    src: url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-Italic.eot');
+    src: url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-Italic.eot?#iefix') format('embedded-opentype'),
+        url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-Italic.woff2') format('woff2'),
+        url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-Italic.woff') format('woff'),
+        url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Frutiger LT Std';
+    src: url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-LightItalic.eot');
+    src: url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-LightItalic.woff2') format('woff2'),
+        url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-LightItalic.woff') format('woff'),
+        url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Frutiger LT Std';
+    src: url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-BoldItalic.eot');
+    src: url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-BoldItalic.woff2') format('woff2'),
+        url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-BoldItalic.woff') format('woff'),
+        url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Frutiger LT Std';
+    src: url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-Light.eot');
+    src: url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-Light.eot?#iefix') format('embedded-opentype'),
+        url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-Light.woff2') format('woff2'),
+        url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-Light.woff') format('woff'),
+        url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Frutiger LT Std';
+    src: url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-Bold.eot');
+    src: url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-Bold.eot?#iefix') format('embedded-opentype'),
+        url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-Bold.woff2') format('woff2'),
+        url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-Bold.woff') format('woff'),
+        url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Frutiger LT Std';
+    src: url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-Roman.eot');
+    src: url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-Roman.eot?#iefix') format('embedded-opentype'),
+        url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-Roman.woff2') format('woff2'),
+        url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-Roman.woff') format('woff'),
+        url('http://info.commscope.com/rs/751-QQY-459/images/FrutigerLTStd-Roman.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+a:link {
+    color: #00adef;
+}
+
+a:visited {
+    color: #00adef;
+}
+
+a:hover {
+    color: #00adef;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #00adef;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "univia-pro", Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+}
+
+p {
+    font-family: "Frutiger LT Std", Helvetica, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+li {
+    display: inline-block;
+}
+
+.img-logo {
+    width: 161px;
+    height: 22px;
+}
+
+.social {
+    text-align: right;
+    display: block;
+}
+
+.outer-footer-text {
+    color: gray;
+    margin: 0;
+    padding: 0 15px 0 15px;
+}
+.outer-footer-icon {
+    padding: 0 15px 0 15px;
+}
+
+.outer-footer-text a {
+    color: gray;
+}
+
+.fa-envelope-o {
+    color: #ffffff;
+    padding:15px;
+}
+
+.icon-bg {
+    background-color: gray;
+}
+
+.ribbon-footer {
+    height: 3px;
+    background: #00b250;
+}
+
+.footer-text {
+    color: gray;
+    font-size: 12px;
+}
+
+.ribbon {
+    height: 10px;
+    background: #ffcb05;
+    background: -moz-linear-gradient(left, #ffcb05, #bfd730, #00aab5, #00aeef);
+    background: -webkit-linear-gradient(left, #ffcb05,#bfd730,#00aab5,#00aeef);
+    background: linear-gradient(to right, #ffcb05,#bfd730,#00aab5,#00aeef);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffcb05', endColorstr='#00aeef',GradientType=1 );
+}
+
+@media (max-width: 567px) {
+    .social {
+        text-align: left;
+        display: block;
+    }
+}
+
+/* 
+
+For Mareketo Template
+
+.ribbon {
+  background: linear-gradient(top right,${gradient1},${gradient2},${gradient3},${gradient4});
+}
+
+.header {
+    display: ${showHeader};
+}
+
+.section-1 {
+    display:${showHeadline};
+}
+
+.oneColumn {
+    display:${oneColumnContainer};
+}
+
+.twoColumnFormRight {
+    display:${twoColumnFormRightContainer};
+}
+
+.twoColumnFormLeft {
+    display:${twoColumnFormLeftContainer};
+}
+
+.rightFormHeaderImg{
+    display:${rightFormHI};
+}
+
+.leftFormHeaderImg{
+    display:${leftFormHI};
+}
+
+.ribbon-footer {
+  background-color: ${footerColor};
+}
+
+*/
